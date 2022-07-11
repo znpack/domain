@@ -10,7 +10,13 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    
+    "zncore/query-filter": "0.x-dev",
+    "zncore/relation": "0.x-dev",
+    "zncore/repository": "0.x-dev",
+    "zncore/service": "0.x-dev",
+    "zncore/domain": "0.x-dev",
+    "zncore/data-provider": "0.x-dev",
+    "zncore/entity-manager": "0.x-dev"
   },
   "autoload": {
     "psr-4": {
