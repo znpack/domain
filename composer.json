@@ -1,0 +1,21 @@
+{
+  "name": "znpack/domain",
+  "type": "extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zn Developer",
+      "email": "zndev@ya.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    
+  },
+  "autoload": {
+    "psr-4": {
+      "ZnPack\\Domain\\": "src",
+      "ZnPack\\Domain\\Tests\\": "tests"
+    }
+  }
+}
