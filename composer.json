@@ -18,11 +18,5 @@
     "zndomain/relation": "0.x-dev",
     "zndomain/repository": "0.x-dev",
     "zndomain/service": "0.x-dev"
-  },
-  "autoload": {
-    "psr-4": {
-      "ZnPack\\Domain\\": "src",
-      "ZnPack\\Domain\\Tests\\": "tests"
-    }
   }
 }
