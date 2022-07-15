@@ -17,6 +17,9 @@
     "zndomain/query-filter": "0.x-dev",
     "zndomain/relation": "0.x-dev",
     "zndomain/repository": "0.x-dev",
+    "zndomain/entity": "0.x-dev",
+    "zndomain/query": "0.x-dev",
+    "zndomain/validator": "0.x-dev",
     "zndomain/service": "0.x-dev"
   }
 }
